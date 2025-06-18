@@ -4,7 +4,7 @@
 As a Cloud Architect, I specialize in designing and implementing serverless architectures on AWS. I thrive on building highly scalable and cost-effective applications using serverless technologies and Infrastructure as Code (IaC). My current focus lies in exploring the latest AWS Serverless offerings, leveraging Generative AI to accelerate development, and adhering to serverless best practices.
 
 ### Skills
-- Cloud Architecture
+- Cloud Solution Architecture
 - AWS Serverless Technologies
   - AWS Lambda
   - Amazon API Gateway
