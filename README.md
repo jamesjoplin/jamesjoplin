@@ -51,15 +51,15 @@ for serverless LTI 1.3 integration.
 
 ### Where to find me
 <a href="mailto:james.e.joplin@gmail.com">
-    <img src="https://img.shields.io/badge/email-james.e.joplin%40gmail.com-green?style=flat-square">
+    <img src="https://img.shields.io/badge/email-james.e.joplin%40gmail.com-0077B5?style=flat-square">
 </a>
-
+<br />
 <a href="https://www.linkedin.com/in/jamesjoplin/">
-    <img src="https://img.shields.io/badge/linkedin-jamesjoplin-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/linkedin-jamesjoplin-0077B5?style=flat-square">
 </a>
-
+<br />
 <a href="https://www.npmjs.com/~jamesjoplin">
-    <img src="https://img.shields.io/badge/npm-jamesjoplin-red?style=flat-square">
+    <img src="https://img.shields.io/badge/npm-jamesjoplin-CB3837?style=flat-square">
 </a>
 
 ---
