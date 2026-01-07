@@ -14,7 +14,7 @@ Currently exploring: Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg),
 - Pluggable architecture: DynamoDB/PostgreSQL storage, Hono/Express frameworks
 - 4 npm packages with comprehensive documentation
 - 6.5ms average execution time, <$0.001 per 1000 launches
-- Version 0.9 published to npm, working toward 1.0
+- Version 1.0 published to npm, working on additional storage adapters.
 
 ### Recent Work
 
