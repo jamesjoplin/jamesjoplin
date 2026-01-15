@@ -2,17 +2,23 @@
 
 ### About Me
 
-Technical Director with 18+ years building AWS serverless platforms for EdTech. 
+Technical Director with 18+ years building AWS serverless platforms. 
 Specializing in serverless architecture, data pipelines, and modern framework adoption. Force multiplier for engineering teams through hands-on technical leadership, mentorship, and solving complex production challenges.
 
-Currently exploring: Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg), LTI 1.3 integration patterns, and Claude AI (Anthropic) for educational content generation.
+Currently exploring: 
+- Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg)
+- Claude AI integration via AWS Bedrock
+- LTI 1.3 authentication patterns
 
 ### Current Projects
 
 **[lti-tool](https://github.com/lti-tool/lti-tool)** - Serverless-native LTI 1.3 toolkit for TypeScript
+
+Solves LTI 1.3 authentication and session management at scale
+
 - First LTI 1.3 library optimized for AWS Lambda and Cloudflare Workers
-- Pluggable architecture: DynamoDB/PostgreSQL storage, Hono/Express frameworks
-- 4 npm packages with comprehensive documentation
+- Pluggable architecture: DynamoDB/MySQL/PostgreSQL storage, Hono/Express frameworks
+- 5 npm packages with comprehensive documentation
 - 6.5ms average execution time, <$0.001 per 1000 launches
 - Version 1.0 published to npm, working on additional storage adapters.
 
@@ -39,14 +45,9 @@ Currently exploring: Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg),
 - **Frameworks**: Astro, Hono, Angular, React, .NET Core
 - **Databases**: DynamoDB, RDS, PostgreSQL
 
-**Emerging Tech**
-- GenAI Integration (Claude AI via AWS Bedrock)
-- LTI 1.3 Standards & EdTech Platforms
-- Modern SSG/SSR (Astro, serverless rendering)
-
 ### Open Source
 
-Published maintainer of [lti-tool](https://github.com/lti-tool/lti-tool) - 4 npm packages 
+Published maintainer of [lti-tool](https://github.com/lti-tool/lti-tool) - 5 npm packages 
 for serverless LTI 1.3 integration.
 
 ### Where to find me
