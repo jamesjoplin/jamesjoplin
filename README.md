@@ -7,8 +7,7 @@ Specializing in serverless architecture, data pipelines, and modern framework ad
 
 Currently exploring: 
 - Spec-driven AI development workflows
-- RAG architecture patterns
-- Claude AI integration via AWS Bedrock
+- RAG architecture patterns with AWS Bedrock
 - LTI 1.3 authentication patterns
 - Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg)
 
