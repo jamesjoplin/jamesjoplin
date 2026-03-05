@@ -6,9 +6,11 @@ Technical Director with 18+ years building AWS serverless platforms.
 Specializing in serverless architecture, data pipelines, and modern framework adoption. Force multiplier for engineering teams through hands-on technical leadership, mentorship, and solving complex production challenges.
 
 Currently exploring: 
-- Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg)
+- Spec-driven AI development workflows
+- RAG architecture patterns
 - Claude AI integration via AWS Bedrock
 - LTI 1.3 authentication patterns
+- Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg)
 
 ### Current Projects
 
@@ -28,12 +30,15 @@ Solves LTI 1.3 authentication and session management at scale
 - Modernized API development with **Hono, Swagger, and Zod** (type-safe data contracts)
 - Implemented automated code quality with **oxlint/ESLint/Prettier** pipeline
 - Architecting data analytics with **DynamoDB Streams -> Kinesis -> Iceberg**
+- Implementing GenAI product features with AWS Bedrock and RAG architecture
+- Building AI-augmented tooling for content workflow automation
 
 ### Technical Expertise
 **Cloud Architecture**
 - AWS: Lambda, DynamoDB, API Gateway, S3, SNS/SQS, Kinesis, Glue, Athena, QuickSight, EventBridge
 - Serverless data pipelines and real-time analytics
 - Multi-region architectures and global DynamoDB tables
+- AI/ML: AWS Bedrock, Prompt Engineering, RAG Architecture, LLM Integration
 
 **Infrastructure & DevOps**
 - Infrastructure as Code: Terraform, Terragrunt, sst, Pulumi
