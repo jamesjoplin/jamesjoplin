@@ -12,7 +12,7 @@ Specializing in serverless architecture, agentic AI systems, data pipelines, and
 Solves LTI 1.3 authentication and session management at scale
 
 - First LTI 1.3 library optimized for AWS Lambda and Cloudflare Workers
-- Over 7,000 monthly downloads as of August 2026, 
+- Over 7,000 monthly downloads as of August 2026
 - Pluggable architecture: DynamoDB/MySQL/PostgreSQL storage, Hono/Express frameworks
 - 5 npm packages with comprehensive documentation
 - 6.5ms average execution time, <$0.001 per 1000 launches
