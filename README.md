@@ -2,14 +2,8 @@
 
 ### About Me
 
-Technical Director with 18+ years building AWS serverless platforms. 
-Specializing in serverless architecture, data pipelines, and modern framework adoption. Force multiplier for engineering teams through hands-on technical leadership, mentorship, and solving complex production challenges.
-
-Currently exploring: 
-- Spec-driven AI development workflows
-- RAG architecture patterns with AWS Bedrock
-- LTI 1.3 authentication patterns
-- Serverless data pipelines (DynamoDB -> Kinesis -> Iceberg)
+Director of Engineering with 18+ years building AWS serverless platforms. 
+Specializing in serverless architecture, agentic AI systems, data pipelines, and modern framework adoption. Force multiplier for product and engineering teams through hands-on technical leadership, mentorship, and spec-driven development that compresses delivery cycles.
 
 ### Current Projects
 
@@ -22,22 +16,32 @@ Solves LTI 1.3 authentication and session management at scale
 - 5 npm packages with comprehensive documentation
 - 6.5ms average execution time, <$0.001 per 1000 launches
 - Version 1.0 published to npm, working on additional storage adapters.
+- Over 7,000 monthly downloads as of August 2026, 
+
+**Lecture & Podcast Generation Platform** - *personal project, built independently*
+A full-stack platform that turns transcripts into narrated lecture videos and podcasts using AI voice synthesis. Built end to end on my own time to solve a real content-production workflow.
+
+- Angular front end with a serverless TypeScript backend on AWS
+- AI voice generation via ElevenLabs, with a section-level regeneration pipeline (edit and re-render only the changed segment to control cost and turnaround)
+- Automated video assembly with an integrated player and auto-generated VTT subtitles
+- Podcast generation mode
+- Designed, built, and deployed solo, from front end to infrastructure
 
 ### Recent Work
 
+- Established spec-driven agentic development workflows (Claude Code, Kiro, OpenSpec) across product and engineering, compressing feature cycles
+- Architected an automated content-remediation pipeline (Cheerio/TypeScript) that corrects content issues on publish, establishing reusable patterns to systematically address content quality and accessibility at scale across different content types
 - Introduced **Astro** static site generation (50% Lambda compute reduction for content delivery)
 - Modernized API development with **Hono, Swagger, and Zod** (type-safe data contracts)
 - Implemented automated code quality with **oxlint/ESLint/Prettier** pipeline
-- Architecting data analytics with **DynamoDB Streams -> Kinesis -> Iceberg**
-- Implementing GenAI product features with AWS Bedrock and RAG architecture
-- Building AI-augmented tooling for content workflow automation
+- Architected data analytics with **DynamoDB Streams -> Kinesis -> Iceberg**
 
 ### Technical Expertise
 **Cloud Architecture**
 - AWS: Lambda, DynamoDB, API Gateway, S3, SNS/SQS, Kinesis, Glue, Athena, QuickSight, EventBridge
 - Serverless data pipelines and real-time analytics
 - Multi-region architectures and global DynamoDB tables
-- AI/ML: AWS Bedrock, Prompt Engineering, RAG Architecture, LLM Integration
+- AI/ML: AWS Bedrock, Agentic Systems, MCP, RAG Architecture, LLM Integration, Spec-Driven Development
 
 **Infrastructure & DevOps**
 - Infrastructure as Code: Terraform, Terragrunt, sst, Pulumi
