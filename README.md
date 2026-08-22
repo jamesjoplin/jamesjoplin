@@ -19,6 +19,7 @@ Solves LTI 1.3 authentication and session management at scale
 - Over 7,000 monthly downloads as of August 2026, 
 
 **Lecture & Podcast Generation Platform** - *personal project, built independently*
+
 A full-stack platform that turns transcripts into narrated lecture videos and podcasts using AI voice synthesis. Built end to end on my own time to solve a real content-production workflow.
 
 - Angular front end with a serverless TypeScript backend on AWS
